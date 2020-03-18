@@ -1,4 +1,8 @@
 # Rancid-Tomatillo
+
+**Please view the following repo for project management information as well as PR commentary**
+- https://github.com/peeratmac/rancid-tomatillos
+
 ## Mod 3 Group Project
 ### Dev Team
 [Austen Dunn](https://github.com/Dunn-Austen)  
